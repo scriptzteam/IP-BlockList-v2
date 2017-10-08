@@ -13,15 +13,15 @@
 # Maintainer      : IP Blacklist Cloud
 # Maintainer URL  : http://www.ip-finder.me/
 # List source URL : http://www.ip-finder.me/download/
-# Source File Date: Sat Oct  7 11:08:37 UTC 2017
+# Source File Date: Sun Oct  8 03:32:40 UTC 2017
 #
 # Category        : abuse
-# Version         : 1203
+# Version         : 1204
 #
-# This File Date  : Sat Oct  7 11:08:37 UTC 2017
+# This File Date  : Sun Oct  8 03:32:40 UTC 2017
 # Update Frequency: 4 hours 
 # Aggregation     : 30 days 
-# Entries         : 353 unique IPs
+# Entries         : 354 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -295,6 +295,7 @@
 95.104.7.41
 95.104.7.43
 95.104.7.61
+95.104.61.132
 95.104.61.142/31
 95.104.61.166
 95.104.61.168

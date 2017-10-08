@@ -13,12 +13,12 @@
 # Maintainer      : IP Blacklist Cloud
 # Maintainer URL  : http://www.ip-finder.me/
 # List source URL : http://www.ip-finder.me/download/
-# Source File Date: Sat Oct  7 11:08:37 UTC 2017
+# Source File Date: Sun Oct  8 03:32:40 UTC 2017
 #
 # Category        : abuse
-# Version         : 939
+# Version         : 940
 #
-# This File Date  : Sat Oct  7 11:08:37 UTC 2017
+# This File Date  : Sun Oct  8 03:32:40 UTC 2017
 # Update Frequency: 4 hours 
 # Aggregation     : none
 # Entries         : 32 unique IPs
@@ -62,5 +62,5 @@
 91.210.146.209
 91.226.252.19
 94.158.70.97
-220.171.48.39
+95.104.61.132
 221.176.112.45
