@@ -14,12 +14,12 @@
 # Maintainer      : PacketMail.net
 # Maintainer URL  : https://www.packetmail.net/
 # List source URL : https://www.packetmail.net/iprep_emerging_ips.txt
-# Source File Date: Mon Oct  9 08:55:05 UTC 2017
+# Source File Date: Tue Oct 10 08:55:05 UTC 2017
 #
 # Category        : reputation
-# Version         : 2258
+# Version         : 2261
 #
-# This File Date  : Mon Oct  9 09:00:40 UTC 2017
+# This File Date  : Tue Oct 10 09:00:19 UTC 2017
 # Update Frequency: 4 hours 
 # Aggregation     : none
 # Entries         : 21 unique IPs
@@ -34,11 +34,11 @@
 # Processed with sCRiPTz-TEAM's iprange
 #
 8.8.8.8
+23.228.89.2
+23.250.14.111
 37.187.129.166
 45.123.190.147
 52.80.113.167
-64.95.112.163
-69.30.233.187
 78.40.108.39
 80.82.77.33
 113.13.168.45
