@@ -15,15 +15,15 @@
 # Maintainer      : GPF Comics
 # Maintainer URL  : https://www.gpf-comics.com/dnsbl/
 # List source URL : https://www.gpf-comics.com/dnsbl/export.php
-# Source File Date: Thu Oct 12 20:40:47 UTC 2017
+# Source File Date: Fri Oct 13 20:52:07 UTC 2017
 #
 # Category        : abuse
-# Version         : 550
+# Version         : 551
 #
-# This File Date  : Thu Oct 12 20:40:47 UTC 2017
+# This File Date  : Fri Oct 13 20:52:07 UTC 2017
 # Update Frequency: 1 day 
 # Aggregation     : none
-# Entries         : 2749 unique IPs
+# Entries         : 2747 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -1000,7 +1000,6 @@
 91.205.239.219
 91.210.145.129
 91.210.146.115
-91.210.146.243
 91.210.147.48
 91.210.147.78
 91.211.2.101
@@ -1025,7 +1024,6 @@
 93.40.181.61
 93.72.51.208
 93.72.182.31
-93.76.2.183
 93.77.102.130
 93.77.114.193
 93.77.122.70
@@ -1470,7 +1468,6 @@
 120.194.236.115
 120.194.236.116
 120.197.244.30
-120.209.196.59
 120.236.132.82
 121.28.195.46
 121.46.86.50
@@ -2747,6 +2744,7 @@
 220.231.21.232
 220.250.18.194
 220.250.19.161
+220.250.19.250
 221.133.19.251
 221.182.19.32
 221.207.62.202

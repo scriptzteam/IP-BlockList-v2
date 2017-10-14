@@ -9,15 +9,15 @@
 # Maintainer      : Emerging Threats
 # Maintainer URL  : http://www.emergingthreats.net/
 # List source URL : http://rules.emergingthreats.net/fwrules/emerging-PIX-DSHIELD.rules
-# Source File Date: Thu Oct 12 04:30:02 UTC 2017
+# Source File Date: Fri Oct 13 04:30:01 UTC 2017
 #
 # Category        : attacks
-# Version         : 473
+# Version         : 474
 #
-# This File Date  : Thu Oct 12 23:40:08 UTC 2017
+# This File Date  : Sat Oct 14 00:00:12 UTC 2017
 # Update Frequency: 12 hours 
 # Aggregation     : none
-# Entries         : 20 subnets, 5120 unique IPs
+# Entries         : 19 subnets, 5120 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -29,22 +29,21 @@
 # Processed with sCRiPTz-TEAM's iprange
 #
 5.188.10.0/24
+5.188.86.0/24
 5.188.203.0/24
-71.6.146.0/24
+45.55.6.0/24
+45.55.11.0/24
+45.55.12.0/23
+45.55.19.0/24
+45.55.25.0/24
 77.72.82.0/24
-77.72.85.0/24
 80.82.77.0/24
-93.174.93.0/24
 109.248.9.0/24
 125.212.217.0/24
-141.212.122.0/24
 158.85.81.0/24
 168.1.128.0/24
-181.214.87.0/24
-185.35.62.0/24
+185.129.148.0/24
 191.101.167.0/24
-195.88.209.0/24
 196.52.43.0/24
-199.48.164.0/24
-212.3.130.0/24
+212.129.6.0/24
 216.158.238.0/24
