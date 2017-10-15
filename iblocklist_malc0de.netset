@@ -9,12 +9,12 @@
 # Maintainer      : iBlocklist.com
 # Maintainer URL  : https://www.iblocklist.com/
 # List source URL : http://list.iblocklist.com/?list=pbqcylkejciyhmwttify&fileformat=p2p&archiveformat=gz
-# Source File Date: Sat Oct 14 02:05:01 UTC 2017
+# Source File Date: Sun Oct 15 02:09:24 UTC 2017
 #
 # Category        : malware
-# Version         : 586
+# Version         : 587
 #
-# This File Date  : Sat Oct 14 02:16:38 UTC 2017
+# This File Date  : Sun Oct 15 02:24:32 UTC 2017
 # Update Frequency: 12 hours 
 # Aggregation     : none
 # Entries         : 232 subnets, 236 unique IPs
@@ -56,7 +56,6 @@
 47.89.249.183
 47.89.252.198
 50.28.26.10
-50.28.39.131
 50.31.160.160
 50.63.174.31
 52.84.118.58
@@ -80,9 +79,7 @@
 66.84.8.235
 66.84.21.227
 66.135.55.8
-66.199.174.108
 67.210.102.240
-68.171.50.137
 68.178.159.168
 69.90.148.231
 72.3.203.97
@@ -100,6 +97,7 @@
 80.172.241.35
 80.208.230.159
 81.29.205.233
+82.99.219.98
 82.151.131.234
 83.220.144.30
 84.38.226.161
@@ -110,6 +108,7 @@
 86.104.15.248
 86.109.170.66
 86.109.170.84
+86.109.170.198
 87.98.239.48
 87.106.150.83
 87.106.222.105
@@ -233,6 +232,7 @@
 198.185.159.145
 199.30.241.139
 200.27.142.126
+200.74.241.169
 202.124.241.178
 202.169.44.141
 202.169.44.149
