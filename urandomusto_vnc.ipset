@@ -9,15 +9,15 @@
 # Maintainer      : urandom.us.to
 # Maintainer URL  : http://urandom.us.to/
 # List source URL : http://urandom.us.to/report.php?ip=&info=&tag=vnc&out=txt&submit=go
-# Source File Date: Sun Oct 15 01:29:27 UTC 2017
+# Source File Date: Sun Oct 15 05:45:29 UTC 2017
 #
 # Category        : attacks
-# Version         : 3225
+# Version         : 3226
 #
-# This File Date  : Sun Oct 15 01:29:27 UTC 2017
+# This File Date  : Sun Oct 15 05:45:29 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : none
-# Entries         : 79 unique IPs
+# Entries         : 81 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -37,6 +37,7 @@
 27.254.44.75
 31.4.214.30
 34.234.87.230
+38.142.99.26
 40.71.81.68
 45.55.14.152
 45.55.18.58
@@ -53,6 +54,7 @@
 74.82.47.38
 77.72.83.111
 77.72.83.230
+80.16.108.170
 80.82.78.4
 80.178.204.119
 85.217.202.233
